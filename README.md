@@ -57,24 +57,13 @@
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-420D4B?style=for-the-badge&logo=java&logoColor=F5D5E0" />
-  <img src="https://img.shields.io/badge/Python-6667AB?style=for-the-badge&logo=python&logoColor=F5D5E0" />
-  <img src="https://img.shields.io/badge/JavaScript-7B337E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-210635?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-420D4B?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiaraeshwara&theme=tokyonight&bg_color=210635&color=7B337E&line=6667AB&point=F5D5E0&area=true&hide_border=false" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tiaraeshwara/tiaraeshwara/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/tiaraeshwara/tiaraeshwara/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
 </div>
 
 ---
