@@ -4,8 +4,9 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7B337E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </p>
-
-  <h1 style="color: #7B337E;"> My Style Profile 🔥</h1>
+  
+<h1 style="color: #7B337E;"> My Style Profile 🔥</h1>
+  
 
   <p align="center">
     <b style="color: #6667AB;">welcome 🙏 I'm Tiara Eshwara</b>
