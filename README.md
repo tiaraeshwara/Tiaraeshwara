@@ -6,23 +6,6 @@
   </p>
   
 <h1 style="color: #7B337E;"> My Style Profile 🔥</h1>
-  
-
-  <p align="center">
-    <b style="color: #6667AB;">welcome 🙏 I'm Tiara Eshwara</b>
-  </p>
-</div>
-
----
-
-### 💫 About Me
-
-<table>
-  <tr>
-    <td width="65%" style="border: none; vertical-align: top;">
-      <p>🌟 <b style="color: #7B337E;">Started the Journey with Software Development</b></p>
-      <p>💻 I work on Front-end and Back-end development while focusing on Data Science.</p>
-      <p>🎓 Currently pursuing a degree in <b> Software Engineering</b>.</p>
       <p>🤝 Undergraduate at <b>NSBM Green University</b></p>
       <p>💬 Ask me about <b>Java, Web Development, or Python</b>.</p>
       <p>✨ <i style="color: #6667AB;">"I only strive for perfection."</i></p>
