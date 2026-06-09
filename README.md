@@ -21,6 +21,23 @@
 
 ---
 
+### 📊 Languages & Tools I Have Placed My Hands On
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php,py,cpp,c,cs,dotnet,mysql,postgres,mongodb,react,nextjs,nodejs,bootstrap,tailwind,aws,linux,figma,android,flutter,jenkins,git,github,vsc&theme=dark" />
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiaraeshwara&show_icons=true&theme=tokyonight&title_color=7B337E&text_color=F5D5E0&bg_color=210635&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaraeshwara&layout=compact&theme=tokyonight&title_color=7B337E&text_color=F5D5E0&bg_color=210635&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ti
+
 ### ⚡ GitHub Stats
 
 <p align="center">
