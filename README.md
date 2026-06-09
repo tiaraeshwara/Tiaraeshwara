@@ -12,14 +12,7 @@
     </td>
     <td width="35%" style="border: none; vertical-align: middle; text-align: center;">
       <p><b>✨ Follow Me on:</b></p>
-      <a href="https://linkedin.com/in/tiara-eshwara"><img src="https://img.shields.io/badge/LINKEDIN-6667AB?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
-      <a href="mailto:tiaraeshwara320@gmail.com"><img src="https://img.shields.io/badge/GMAIL-7B337E?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
-      <a href="https://fb.com/tiara-eshwara"><img src="https://img.shields.io/badge/FACEBOOK-420D4B?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
+      <a href="https://linkedin.com/in/tiara
 
 ### 📊 Languages & Tools I Have Placed My Hands On
 <p align="center">
@@ -36,7 +29,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiaraeshwara&theme=tokyonight&stroke=7B337E&background=210635&ring=6667AB&fire=7B337E&currStreakLabel=F5D5E0" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ti-eshwara"><img src="https://img.shields.io/badge/LINKEDIN-6667AB?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+      <a href="mailto:tiaraeshwara320@gmail.com"><img src="https://img.shields.io/badge/GMAIL-7B337E?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+      <a href="https://fb.com/tiara-eshwara"><img src="https://img.shields.io/badge/FACEBOOK-420D4B?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---araeshwara&theme=tokyonight&stroke=7B337E&background=210635&ring=6667AB&fire=7B337E&currStreakLabel=F5D5E0" width="100%" />
 </p>
 
 ---
