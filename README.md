@@ -29,7 +29,7 @@
 
 ### 📊 Languages & Tools I Have Placed My Hands On
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php,py,cpp,c,cs,dotnet,mysql,postgres,mongodb,react,nextjs,nodejs,bootstrap,tailwind,aws,linux,figma,android,flutter,jenkins,git,github,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,php,py,cpp,c,cs,dotnet,mysql,postgres,mongodb,react,nextjs,nodejs,bootstrap,tailwind,aws,linux,figma,flutter,jenkins,git,github,vscode" alt="Languages and Tools" />
 </p>
 
 ---
