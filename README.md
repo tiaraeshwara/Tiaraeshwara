@@ -13,7 +13,7 @@
     <td width="65%" style="border: none; vertical-align: top;">
       <h1 style="color: #7B337E;">My Style Profile 🔥</h1>
       <p>🤝 Undergraduate at <b>NSBM Green University</b></p>
-      <p>💬 Ask me about <b>Java, Web Development, or Python</b>.</p>
+      <p>💬 Ask me about <b>Java, Web Development or Python</b>.</p>
       <p>✨ <i style="color: #6667AB;">"I only strive for perfection."</i></p>
     </td>
     <td width="35%" style="border: none; vertical-align: middle; text-align: center;">
