@@ -2,19 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=420D4B&height=250&section=header&text=Tiara%20Eshwara&fontSize=70&fontColor=F5D5E0&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7B337E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-  </p>
-</div>
-
----
-
-<table>
-  <tr>
-    <td width="65%" style="border: none; vertical-align: top;">
-      <h1 style="color: #7B337E;">My Style Profile 🔥</h1>
-      <p>🤝 Undergraduate at <b>NSBM Green University</b></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7B337E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />x
       <p>💬 Ask me about <b>Java, Web Development or Python</b>.</p>
       <p>✨ <i style="color: #6667AB;">"I only strive for perfection."</i></p>
+    </td>
+    <td width="35%" style="border: none; vertical-align: middle; text-align: center;">
+      <p><b>✨ Follow Me on:</b></p>p>
     </td>
     <td width="35%" style="border: none; vertical-align: middle; text-align: center;">
       <p><b>✨ Follow Me on:</b></p>
